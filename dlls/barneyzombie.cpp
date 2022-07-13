@@ -1,0 +1,14 @@
+
+
+
+
+
+
+
+
+
+
+class CBarneyZombie : public CSuperZombie
+{
+
+};
